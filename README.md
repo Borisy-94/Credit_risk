@@ -1,5 +1,6 @@
 # Credit Risk Analysis
 
+
 ## Project Overview
 This project analyzes credit risk data to identify factors that influence the probability of loan default.  
 The goal is to explore financial data and detect patterns that can help financial institutions make better lending decisions.
@@ -28,6 +29,17 @@ The goal is to explore financial data and detect patterns that can help financia
 4. Interpretation of patterns related to loan default risk
 
 ---
+## Model Validation
+
+The classification results were validated by analyzing the relationship between credit rating classes and default rates.
+
+![Credit Risk Default Rate](credit_risk_code.png)
+![Credit Risk Default Rate](credit_risk_default_rate.png)
+
+---
+
+### Key Insight
+Lower credit rating classes show significantly higher default rates, confirming the predictive power of the model.
 
 ## Key Insights
 - Certain financial indicators are strongly associated with higher credit risk.
