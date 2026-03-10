@@ -1,8 +1,5 @@
 # Credit Risk Analysis
 
-## SQL-Code
-Abschlussprojekt_credit-risk.sql
-
 ## Project Overview
 This project analyzes credit risk data to identify factors that influence the probability of loan default.  
 The goal is to explore financial data and detect patterns that can help financial institutions make better lending decisions.
